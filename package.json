@@ -6,6 +6,7 @@
 		"freecodecamp", "description", "related", "words"
 	],
 	"license": "MIT",
+	"version": "10.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
